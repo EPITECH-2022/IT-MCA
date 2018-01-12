@@ -1,12 +1,32 @@
 - How many layers are in the TCP/IP (OSI Model) protocol?
+  - 10 layers
+  - 4 layers
+  - 5 layers
+  - ***7 layers***
 
 - Who is the creator of PHP?
+  - Jack Sparrow
+  - ***Rasmus Lerdorf***
+  - Tim Berners-Lee
+  - Dennis Ritchie
 
 - When was MS-DOS released?
+  - 1991
+  - 1985
+  - ***1981***
+  - 1980
 
 - When was the first electronic, Turing-complete device created?
+  - 2000
+  - 1945
+  - 1955
+  - ***1943***
 
 - When was the first implementation of Blockchain Technology?
+  - ***2009***
+  - 2008
+  - 2000
+  - 1991
 
 - Who invented the first version of the SSH protocol?
 
@@ -28,6 +48,7 @@
 - What was the weight of the computer ENIAC?
 
 - When was born Alan Turing?
+
 
 - Do you need a multiprocessor computer to have a virtual machine?
 
