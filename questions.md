@@ -29,37 +29,88 @@
   - 1991
 
 - Who invented the first version of the SSH protocol?
+  - ***Tatu Ylonen***
+  - Abhay Bhushan
+  - Ted Nelson
+  - Marc Crispin
 
 - Who created the Blu-ray standard?
+  - HP
+  - ***Sony***
+  - IBM
+  - Apple
 
 - Which OS has to be used with openVZ?
+  - Linux / macOS / Windows
+  - ***Linux***
+  - macOS
+  - Windows
 
 - Is DisplayPort able to carry audio?
-(yes, depends on design, needs adaptor, no)
+  - ***Yes but it depends on design***
+  - Yes but it needs an adaptor
+  - Yes
+  - No
 
 - What is FQDN?
-
-- What does ToIP stand for?
+  - Fully Qualified Domain hostName
+  - ***Fully Qualified Domain Name***
+  - Fully Qualified Defense Name
+  - Fully Qualified Data Name
 
 - What was the first laptop released?
+  - Epson HX-20
+  - ***Osborne 1***
+  - Macintosh Portable
+  - Bondwell 2
 
 - What is the advantage of thin client?
+  - A large internet storage capacity
+  - It doesn't need internet to work
+  - ***Lower Operation Costs***
+  - It doesn't need a monitor
 
 - What was the weight of the computer ENIAC?
+  - 300kg
+  - 1.5t
+  - ***30t***
+  - 150kg
 
 - When was born Alan Turing?
-
+  - ***1912***
+  - 1981
+  - 1934
+  - 1891
 
 - Do you need a multiprocessor computer to have a virtual machine?
+  - ***No***
+  - Yes
+  - Maybe
+  - I don't know
 
 - What logo is used to represent NetBSD?
+  - ***A flag***
+  - A fish
+  - A square
+  - A dragonfly
 
 - What is the purpose of the Free Software Foundation?
-(software privacy, freedom to get any software, study distribute create modify software)
+  - Protect and promote the software's privacy
+  - Protect and promote the freedom to get any software for free
+  - Provide private softwares to other companies
+  - ***Protect and promote the freedom to study, distribute, create, modify computer software***
 
 - What is the maximum partition size for NTFS?
+  - 8TiB
+  - ***256TiB***
+  - 32TiB
+  - 1EiB
 
 - In which year was the first Playstation made?
+  - ***1994***
+  - 1992
+  - 1990
+  - 1995
 
 - Which type of DNS entry are correct ?
   - OVH entry / Verisign entry
