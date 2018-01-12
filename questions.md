@@ -22,11 +22,15 @@
   - 1955
   - ***1943***
 
+The Colossus set of computers were produced from 1943 to 1945.
+
 - When was the first implementation of Blockchain Technology?
   - ***2009***
   - 2008
   - 2000
   - 1991
+
+Blockchain concept was implemented as a core component of Bitcoin in 2009.
 
 - Who invented the first version of the SSH protocol?
   - ***Tatu Ylonen***
@@ -64,17 +68,23 @@
   - Macintosh Portable
   - Bondwell 2
 
+The Osborne 1 was the first commercially successful portable microcomputer, released on April 3, 1981, by Osborne Computer Corporation.
+
 - What is the advantage of thin client?
   - A large internet storage capacity
   - It doesn't need internet to work
   - ***Lower Operation Costs***
   - It doesn't need a monitor
 
+A thin client is basically a potato computer connected remotely to a NASA server. Kinda like Shadow.
+
 - What was the weight of the computer ENIAC?
   - 300kg
   - 1.5t
   - ***30t***
   - 150kg
+
+![Photo of the ENIAC](images/ENIAC.jpg)
 
 - When was born Alan Turing?
   - ***1912***
@@ -94,6 +104,8 @@
   - A square
   - A dragonfly
 
+![NetBSD logo](images/NetBSD.png)
+
 - What is the purpose of the Free Software Foundation?
   - Protect and promote the software's privacy
   - Protect and promote the freedom to get any software for free
@@ -112,6 +124,8 @@
   - 1990
   - 1995
 
+December 3, 1994.
+
 - Which type of DNS entry are correct ?
   - OVH entry / Verisign entry
   - ***A / AAAA / MX / PTR***
@@ -123,6 +137,8 @@
   - Android
   - Tux
   - DeamonBSD
+
+![OpenBSD logo](images/OpenBSD.png)
 
 - Which one of the following sentences about SDRAM is true?
   - It cannot replace the standard RAM
@@ -195,6 +211,8 @@
   - ***Odyssey***
   - Xbox
   - PS1
+
+![Odyssey console](images/odyssey.jpg)
 
 - What was the first smartphone to be sold?
   - ***IBM Simon***
