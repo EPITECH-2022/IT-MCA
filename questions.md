@@ -236,4 +236,172 @@ December 3, 1994.
   - ***Imperative***
   - Object-Oriented
   - Subjunctive
-  - Logical
+  - Logical
+- What does PHP mean today ?
+  - PHP: Personal Home Page
+  - PHP: Program High Performace
+  - ***PHP: Hypertext Preprocessor***
+  - PHP: Hypertext Page
+
+- How do C# and Java deal with unusued allocated memory ?
+  - ***Garbage collector***
+  - Trash can
+  - Processor
+  - Memory pool system
+
+- What does ACPI stand for ?
+  - ***Advanced Configuration and Power Interface***
+  - Advanced Computer Passive Initialisation
+  - Armed Canon Plasma Interstellar
+  - Approbation and Classification of Processor Interface
+
+- Originally, where was the BIOS located ?
+  - Processor register
+  - Graphical card
+  - RAM
+  - ***ROM***
+
+- Which of these devices is fully analogic ?
+  - DisplayPort
+  - HDMI
+  - ***VGA***
+  - DVI
+
+- Which protocol can secure a domestic internet connection ?
+  - ***WPA2***
+  - POP3
+  - TCP/IP
+  - FTP
+
+- Which company did the creator of UNIX belong to ?
+  - IBM
+  - ***Bell's Lab (AT&T)***
+  - Apple
+  - Verizon
+
+- Which of these paradigms doesn't exist?
+  - Imperative
+  - Procedural
+  - Object-oriented
+  - ***Virtualized***
+
+- Which corporation created the first microprocessor ?
+  - ***Intel***
+  - Microsoft
+  - IBM
+  - AMD
+
+- What does "FTTH" mean ?
+  - find touchpad trojan horse
+  - fiber to the hometown
+  - fiber to the house
+  - ***fiber to the home***
+
+- What is the brand of the first mobile phone ?
+  - Apple
+  - Samsung
+  - Nokia
+  - ***Motorola***
+
+- What does ToIP stand for ?
+  - Transmission over Internet Protocol
+  - ***Telephony over Internet Protocol***
+  - Transmission on Internet Protocol
+  - Telephony over Internet Packet
+
+- What is the port for the http
+  - 70
+  - ***80***
+  - 90
+  - 82
+
+- Who created the Compact Disc (CD) ?
+  - Apple
+  - Memorex and NeXT
+  - Microsoft and IBM
+  - ***Philips and Sony***
+
+- Who is the founder and maker of the Grid Compass ?
+  - ***Bill Moggridge***
+  - Dave Paulsen
+  - John Ellenby
+  - Gerard Depardie
+
+- What is the extension for the Perl files ?
+  - ***.pl***
+  - .perl
+  - .collier
+  - .perle
+
+- Which connector supports G-Sync ?
+  - ***DisplayPort***
+  - HDMI
+  - VGA
+  - DVI
+
+- What was an issue with the predecessors of SSH
+  - There were no predecessors of SSH
+  - There were no connection issues
+  - ***Data was transmitted over cleartext***
+  - There were no passwords.
+
+- What is correct about the ping ?
+  - The ping describes the speed of the bandwidth
+  - Ping... Pong.
+  - The more the ping is far from zero, the better it is.
+  - ***The more the ping is close to zero, the better it is.***
+
+- What does www stands for ?
+  - Web wasabi world
+  - ***World wide web***
+  - Wide web world
+  - Web war song
+
+- When was born Alan Turing ?
+  - 1981
+  - 1891
+  - 1934
+  - ***1912***
+
+- When was the ENIAC formally dedicated ?
+  - 1972
+  - ***1943***
+  - 1943
+  - 1946
+
+- What king of encryption is used by SSH ?
+  - Symmetric
+  - Perpendicular
+  - Parallel
+  - ***Asymmetric***
+
+- What was the first meaning for the acronym PHP?
+  - elePHPant
+  - Personal HomePage
+  - ***PHP: Hypertext Preprocessor***
+  - Personnalised Hat Production
+
+- When was released the first version of MS-DOS?
+  - 1971
+  - 1989
+  - ***1981***
+  - 1979
+
+- What's the name of the UNIX creator?
+  - Mark Shuttleworth
+  - ***Kenneth Thompson***
+  - Linus Torvalds
+  - Bill Gates
+
+- How many Ram does the Nintendo 64 have ?
+  - 4 MB
+  - 6 MB
+  - 8 MB
+  - ***4 that can be extended to 8 MB***
+
+- Which of these languages does not use a virtual machin at its execution?
+  - Elixir
+  - ***Python***
+  - Erlang
+  - Java
+  
