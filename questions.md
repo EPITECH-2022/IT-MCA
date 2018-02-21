@@ -237,6 +237,7 @@ December 3, 1994.
   - Object-Oriented
   - Subjunctive
   - Logical
+  
 - What does PHP mean today ?
   - PHP: Personal Home Page
   - PHP: Program High Performace
@@ -365,9 +366,9 @@ December 3, 1994.
 
 - When was the ENIAC formally dedicated ?
   - 1972
-  - ***1943***
   - 1943
-  - 1946
+  - 1943
+  - ***1946***
 
 - What king of encryption is used by SSH ?
   - Symmetric
