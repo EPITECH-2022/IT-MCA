@@ -220,6 +220,45 @@ December 3, 1994.
   - Nokia 3310
   - iPhone
 
+- When the first smartphone was released?
+  - ***1994***
+  - 2000
+  - 1992
+  - 1990
+
+- In which country was the peritel cable created?
+  - U.S.A.
+  - China
+  - ***France***
+  - Russia
+
+- What does RFC 2324 talk about?
+  - HTTP
+  - Telnet
+  - SSH
+  - ***Coffee***
+
+- Which was the first marketed microprocessor?
+  - ***Intel 4004***
+  - Intel Celeron
+  - Intel Core i1 1000K
+  - AMD K5 PR75
+  
+- How many pins does the HDMI Type A have?
+  - 29
+  - 15
+  - 21
+  - ***19***
+
+- What is the last Sega console?
+  - ***Dreamcast***
+  - Saturn
+  - S-Gage
+  - Lindbergh
+
+- What flavor of Network Address Translation can be used to have one IP address allow many users to connect to the global Internet?
+  - 
+
 - What was the first Windows to have Internet Explorer?
   - ***Windows 95***
   - Windows XP
