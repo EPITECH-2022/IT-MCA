@@ -256,9 +256,6 @@ December 3, 1994.
   - S-Gage
   - Lindbergh
 
-- What flavor of Network Address Translation can be used to have one IP address allow many users to connect to the global Internet?
-  - 
-
 - What was the first Windows to have Internet Explorer?
   - ***Windows 95***
   - Windows XP
@@ -417,8 +414,8 @@ December 3, 1994.
 
 - What was the first meaning for the acronym PHP?
   - elePHPant
-  - Personal HomePage
-  - ***PHP: Hypertext Preprocessor***
+  - ***Personal HomePage***
+  - PHP: Hypertext Preprocessor
   - Personnalised Hat Production
 
 - When was released the first version of MS-DOS?
